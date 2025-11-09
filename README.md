@@ -34,6 +34,13 @@
     width="40%"
     style="border-radius: 8px;"
   />
+  <img
+    alt="My Code"
+    title="Your mom"
+    src="assets/your_mom.png"
+    width="46%"
+    style="border-radius: 8px;"
+  />
 </p>
 
 ---
