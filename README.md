@@ -41,6 +41,13 @@
     width="46%"
     style="border-radius: 8px;"
   />
+   <img
+    alt="Oguri Wareg Node Modules"
+    title="Oguri Wareg Node Modules"
+    src="assets/oguri-wareg-node-modules.jpg"
+    width="46%"
+    style="border-radius: 8px;"
+  />
 </p>
 
 ---
