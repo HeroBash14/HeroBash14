@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <em>“Bukankah ini my stack?”</em>
+  <em>“I will gooning with my js code” - My Friends</em>
 </p>
 
 <p align="center">
@@ -46,6 +46,13 @@
     title="Oguri Wareg Node Modules"
     src="assets/oguri-wareg-node-modules.jpg"
     width="46%"
+    style="border-radius: 8px;"
+  />
+  <img
+    alt="Oppai Node Modules"
+    title="Oppai Node Modules"
+    src="assets/node_modules_oppai.png"
+    width="40%"
     style="border-radius: 8px;"
   />
 </p>
